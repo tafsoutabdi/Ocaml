@@ -1,0 +1,1 @@
+let run () = Format.printf "Bonjour le monde!"

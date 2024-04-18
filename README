@@ -1,0 +1,9 @@
+FEATURES
+blablabla
+
+TESTS
+blablblabla
+
+KNOWN ISSUES
+-Dans randomWalk.ml , quand le dest est vide , 
+la fonction choisit quand meme un token qui n'est pas sensé exister dans dest 
